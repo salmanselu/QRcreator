@@ -2,4 +2,7 @@
 
 ``` 
 pip install pypng
-pip install pyqrcode ```
+```
+```
+pip install pyqrcode 
+```
